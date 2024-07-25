@@ -22,4 +22,4 @@ Next, right-click again on the name of the project you created, select Propertie
 7. Copy the source code [3d.cpp](https://github.com/achmaddwiprasetyo/3D-Geometri-openGL/blob/main/UAS_Grafika_Komputer/UAS_Grafika_Komputer/3d.cpp) to the C++ file that was created previously
 8. Copy file *freeglut.dll* and *glew32.dll* file into the project folder that has been created.
 9. Running program
-   ![screenshot_35](https://github.com/achmaddwiprasetyo/3D-Geometri-openGL/blob/main/Screenshot%202024-07-26%20010436.pngg)
+   ![screenshot_35](https://github.com/achmaddwiprasetyo/3D-Geometri-openGL/blob/main/Screenshot%202024-07-26%20010436.png)
