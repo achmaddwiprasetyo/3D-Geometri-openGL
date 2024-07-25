@@ -4,11 +4,11 @@ Thank you for visiting the page for my C++ & OpenGL visual studio project setup.
 **Step 1**<br/>
 Download folder [Library_Glut](https://github.com/achmaddwiprasetyo/3D-Geometri-openGL/tree/main/Library_Glut) and extract file.
 **Step 2**<br/>
-Create a folder on disk c: with the name openGL, Copy all downloaded library files to the openGL folder.
+Create a folder on disk c: with the name openGL, Copy all downloaded library files to the openGL folder.<br/>
 **Step 3**<br/>
-Open your Visual Studio app and create a new project empty project C++, After the project is created, right click on the project name, select > add > new item > select c++ file (name the project).
+Open your Visual Studio app and create a new project empty project C++, After the project is created, right click on the project name, select > add > new item > select c++ file (name the project).<br/>
 **Step 4**<br/>
-Next, right-click again on the name of the project you created, select Properties.
+Next, right-click again on the name of the project you created, select Properties.<br/>
 1. Change Configure to Debug and select Platform Win32
 2. Select the C/C++ menu > General > Additional Include Directories > Edit > New Line
 3. Select a folder from the glut library *C:\openGL\glew-1.11.0\include* and *C:\openGL\freeglut\include*
