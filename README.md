@@ -1,13 +1,13 @@
 # Setting C++ & OpenGL Visual Studio 2022
 Thank you for visiting the page for my C++ & OpenGL visual studio project setup. As the title says this is a setup, there is nothing special about this project other than that you can use it to have a base in OpenGL programming.
 
-**Step 1**
+**Step 1**<br/>
 Download folder [Library_Glut](https://github.com/achmaddwiprasetyo/3D-Geometri-openGL/tree/main/Library_Glut) and extract file.
-**Step 2**
+**Step 2**<br/>
 Create a folder on disk c: with the name openGL, Copy all downloaded library files to the openGL folder.
-**Step 3**
+**Step 3**<br/>
 Open your Visual Studio app and create a new project empty project C++, After the project is created, right click on the project name, select > add > new item > select c++ file (name the project).
-**Step 3**
+**Step 4**<br/>
 Next, right-click again on the name of the project you created, select Properties.
 1. Change Configure to Debug and select Platform Win32
 2. Select the C/C++ menu > General > Additional Include Directories > Edit > New Line
