@@ -2,7 +2,7 @@
 Thank you for visiting the page for my C++ & OpenGL visual studio project setup. As the title says this is a setup, there is nothing special about this project other than that you can use it to have a base in OpenGL programming.
 
 # Step 1
-Download folder [Library_Glut] (https://github.com/achmaddwiprasetyo/3D-Geometri-openGL/tree/main/Library_Glut) and extract file.
+Download folder [Library_Glut]([https://osdn.net/projects/mingw/releases/](https://github.com/achmaddwiprasetyo/3D-Geometri-openGL/tree/main/Library_Glut)) and extract file.
 # Step 2
 Create a folder on disk c: with the name openGL, Copy all downloaded library files to the openGL folder.
 # Step 3
