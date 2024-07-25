@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KULIAH\\Semester 3\\UAS\\GrafikaKomputer\\UAS_Grafika_Komputer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77002A6C-7681-4A58-8602-B1CD4C268EE8}|UAS_Grafika_Komputer\\UAS_Grafika_Komputer.vcxproj|D:\\KULIAH\\Semester 3\\UAS\\GrafikaKomputer\\UAS_Grafika_Komputer\\UAS_Grafika_Komputer\\3d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77002A6C-7681-4A58-8602-B1CD4C268EE8}|UAS_Grafika_Komputer\\UAS_Grafika_Komputer.vcxproj|solutionrelative:UAS_Grafika_Komputer\\3d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3d.cpp",
+              "DocumentMoniker": "D:\\KULIAH\\Semester 3\\UAS\\GrafikaKomputer\\UAS_Grafika_Komputer\\UAS_Grafika_Komputer\\3d.cpp",
+              "RelativeDocumentMoniker": "UAS_Grafika_Komputer\\3d.cpp",
+              "ToolTip": "D:\\KULIAH\\Semester 3\\UAS\\GrafikaKomputer\\UAS_Grafika_Komputer\\UAS_Grafika_Komputer\\3d.cpp",
+              "RelativeToolTip": "UAS_Grafika_Komputer\\3d.cpp",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAAABEBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-23T10:12:27.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

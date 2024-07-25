@@ -1,0 +1,6 @@
+﻿  3d.cpp
+D:\KULIAH\Semester 3\UAS\GrafikaKomputer\UAS_Grafika_Komputer\UAS_Grafika_Komputer\3d.cpp(10,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\KULIAH\Semester 3\UAS\GrafikaKomputer\UAS_Grafika_Komputer\UAS_Grafika_Komputer\3d.cpp(26,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\KULIAH\Semester 3\UAS\GrafikaKomputer\UAS_Grafika_Komputer\UAS_Grafika_Komputer\3d.cpp(26,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\KULIAH\Semester 3\UAS\GrafikaKomputer\UAS_Grafika_Komputer\UAS_Grafika_Komputer\3d.cpp(26,43): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  UAS_Grafika_Komputer.vcxproj -> D:\KULIAH\Semester 3\UAS\GrafikaKomputer\UAS_Grafika_Komputer\Debug\UAS_Grafika_Komputer.exe

@@ -1,0 +1,13 @@
+﻿  3d.cpp
+3d.obj : error LNK2001: unresolved external symbol __imp_glutReshapeFunc
+3d.obj : error LNK2001: unresolved external symbol __imp___glutCreateWindowWithExit
+3d.obj : error LNK2001: unresolved external symbol __imp___glutInitWithExit
+3d.obj : error LNK2001: unresolved external symbol __imp_glutPostRedisplay
+3d.obj : error LNK2001: unresolved external symbol __imp_glutInitDisplayMode
+3d.obj : error LNK2001: unresolved external symbol __imp_glutTimerFunc
+3d.obj : error LNK2001: unresolved external symbol __imp_glutDisplayFunc
+3d.obj : error LNK2001: unresolved external symbol __imp_glutMainLoop
+3d.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowPosition
+3d.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowSize
+3d.obj : error LNK2001: unresolved external symbol __imp_glutSwapBuffers
+D:\KULIAH\Semester 3\UAS\GrafikaKomputer\UAS_Grafika_Komputer\x64\Release\UAS_Grafika_Komputer.exe : fatal error LNK1120: 11 unresolved externals
