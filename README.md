@@ -25,5 +25,12 @@ Next, right-click again on the name of the project you created, select Propertie
    ![screenshot_35](https://github.com/achmaddwiprasetyo/3D-Geometri-openGL/blob/main/Screenshot%202024-07-26%20010436.png)
 
 <p align='center'>
+   <a href="https://www.linkedin.com/in/achmad-dwi-prasetyo/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/joinchat/">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
    📫 How to reach me: <a href='mailto:duikskecebong@gmail.com'>duikskecebong@gmail.com</a>
 </p>
