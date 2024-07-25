@@ -23,3 +23,7 @@ Next, right-click again on the name of the project you created, select Propertie
 8. Copy file *freeglut.dll* and *glew32.dll* file into the project folder that has been created.
 9. Running program
    ![screenshot_35](https://github.com/achmaddwiprasetyo/3D-Geometri-openGL/blob/main/Screenshot%202024-07-26%20010436.png)
+
+<p align='center'>
+   📫 How to reach me: <a href='mailto:duikskecebong@gmail.com'>duikskecebong@gmail.com</a>
+</p>
